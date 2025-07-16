@@ -6,8 +6,12 @@ created_at: 7/15/2025
 
 July 14: Uploaded 2 files 
 
-#1 - Start
+#1 - Start [5hr]
 
-#2 - Lates release #1
+#2 - Lates release #1 [2hr]
 
-5:57 : Minor improvements
+5:57 : Minor improvements [30min]
+
+7/15/25 : 1 file upload
+
+#3 [3hr]
