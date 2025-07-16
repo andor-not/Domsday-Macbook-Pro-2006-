@@ -14,4 +14,4 @@ July 14: Uploaded 2 files
 
 7/15/25 : 1 file upload
 
-#3 [3hr]
+#3 Fixed scaling and added conection part for framework labtop [3hr]
